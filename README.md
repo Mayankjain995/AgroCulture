@@ -24,13 +24,13 @@ This project was developed as part of the academic mini-project at **Visveswaray
 ----
 ## 📂 Project Structure
 AgroTechnology/
-│── index.html # Homepage
-│── farmer/ # Farmer module
-│── consumer/ # Consumer module
-│── admin/ # Admin module (optional)
-│── assets/ # CSS, JS, Images
-│── database/ # SQL scripts
-│── README.md # Documentation
+─ index.html # Homepage
+─ farmer/ # Farmer module
+─ consumer/ # Consumer module
+─ admin/ # Admin module (optional)
+─ assets/ # CSS, JS, Images
+─ database/ # SQL scripts
+─ README.md # Documentation
 
 
 ---
