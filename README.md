@@ -21,11 +21,34 @@ This project was developed as part of the academic mini-project at **Visveswaray
 - **Database:** MySQL  
 - **Version Control:** Git & GitHub  
 
----
-
-## 📷 Screenshots
-(Add screenshots here if available – login page, product listing, etc.)
-
----
-
+----
 ## 📂 Project Structure
+AgroTechnology/
+│── index.html # Homepage
+│── farmer/ # Farmer module
+│── consumer/ # Consumer module
+│── admin/ # Admin module (optional)
+│── assets/ # CSS, JS, Images
+│── database/ # SQL scripts
+│── README.md # Documentation
+
+
+---
+
+## ⚙️ Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/agro-technology.git
+2. Import the database
+   -Open phpMyAdmin
+   -Create a new database (e.g., agro_tech)
+   -Import the SQL file from the /database folder
+3. Run the project
+   -Place the project folder in htdocs (if using XAMPP)
+   -Start Apache and MySQL
+   -Open in browser:
+   http://localhost/agro-technology
+
+-----
+
+
